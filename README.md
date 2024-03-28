@@ -1,0 +1,2 @@
+# djrec
+django and react
